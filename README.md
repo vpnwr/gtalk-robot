@@ -18,7 +18,8 @@ What does it do
 How to run
 ----------
 1. download all sources into a directory
-2. edit sampleRobot.py (last line); enter a valid gmail username and password combination you want the robot to use.
+2. edit sampleRobot.py (last line); enter a valid gmail username and password combination you want the robot to use. 
+  You may also want to change the administrator email id (in sampleRobot.py) to yours.
 3. start by typing "python sampleRobot.py"
 
 Feel free to submit contributions/enhancements/additions/bug-fixes.
